@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.PrimeFactors", "Kata.PrimeFactors\Kata.PrimeFactors.csproj", "{2FFA1A9A-E574-4929-821F-924751597931}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FFA1A9A-E574-4929-821F-924751597931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FFA1A9A-E574-4929-821F-924751597931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FFA1A9A-E574-4929-821F-924751597931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FFA1A9A-E574-4929-821F-924751597931}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E55BD014-AB81-4637-A76C-9B3F4AE5460A}
+	EndGlobalSection
+EndGlobal

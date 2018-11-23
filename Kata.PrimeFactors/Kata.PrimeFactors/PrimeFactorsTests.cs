@@ -39,7 +39,6 @@ namespace Kata.PrimeFactors
                     factors.Add(divisor);
                 }
             }
-
             return factors;
         }
     }
